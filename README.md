@@ -21,4 +21,4 @@ Une application simple de dessin et d'édition d'images développée en Python a
 
 1. Clonez le dépôt depuis GitHub :
    ```bash
-   git clone https://github.com/tonpseudo/PhotoshopLight.git
+   git clone https://github.com/Tifeux/PhotoshopLight
