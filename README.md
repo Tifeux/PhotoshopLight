@@ -5,7 +5,7 @@ Une application simple de dessin et d'édition d'images développée en Python a
 ## Fonctionnalités
 
 - Pinceau : Dessinez librement avec une taille ajustable (via un slider).
-- Sélection rectangulaire** : Sélectionnez une zone en traçant un rectangle.
+- **Sélection rectangulaire** : Sélectionnez une zone en traçant un rectangle.
 - Baguette magique : Sélectionnez automatiquement les zones connectées de couleur similaire.
 - Effacement : Effacez la sélection ou tout le canvas.
 - Sauvegarde : Exportez votre création en fichier PNG.
