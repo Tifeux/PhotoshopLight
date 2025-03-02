@@ -21,7 +21,7 @@ class ModernPhotoshop:
         self.selection_rect = None
         self.selection_coords = None
         
-        # Style moderne
+        # Style 
         style = ttk.Style()
         style.configure("Toolbutton.TButton", font=("Arial", 10), padding=5)
         style.configure("TFrame", background="#f0f0f0")
@@ -44,7 +44,7 @@ class ModernPhotoshop:
         self.image = Image.new("RGB", (800, 600), "white")
         self.draw = ImageDraw.Draw(self.image)
         
-        # Ajout des outils avec "icônes"
+        # Outils
         tools = [
             ("✏️", "Pinceau", self.use_brush),
             ("□", "Sélection", self.use_rect_select),
